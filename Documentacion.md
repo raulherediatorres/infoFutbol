@@ -60,6 +60,38 @@ Correo de ayuda: ayuda@gmail.com
 
 # Hist3a - Diseño de la interfaz. Bocetos
 
+## Editar Perfil
+
+![Alt text](img/boceto1.jpg)
+
+## Perfil
+
+![Alt text](img/bocetoperfil.jpg)
+
+## Equipos
+
+![Alt text](img/bocetoequipos.jpg)
+
+## Partidos
+
+![Alt text](img/bocetopartidos.jpg)
+
+## Registro
+
+![Alt text](img/bocetoregistro.jpg)
+
+## Iniciar Sesión
+
+![Alt text](img/bocetoinicion.jpg)
+
+## Menu de Busqueda
+
+![Alt text](img/bocetobusqueda.jpg)
+
+## Menu de la pagina
+
+![Alt text](img/bocetoplantilla.jpg)
+
 # Hist4 - Wireframe, mockup y guía de estilos
 
 ![Alt text](img/benchmarking1.jpg)
